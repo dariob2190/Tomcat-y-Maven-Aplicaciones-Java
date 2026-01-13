@@ -6,7 +6,7 @@
 2. Configuración del servidor
 3. Instalación y configuración de Maven
 4. Despliegue manual
-5. Despliegue automático con Maven (Tarea)
+5. Despliegue automático con Maven
 
 ## 1. Instalación del servidor
 
